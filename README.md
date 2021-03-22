@@ -6,6 +6,7 @@ Self-supervised learning has gained prominence due to its efficacy at learning p
 
 ## Outline
 ![Outline](./sample_images/outline.png)
+
 **Figure:** Schematic of our proposed self-supervised method for sketches. Vectorization drives representation learning for sketch images; rasterization is the pre-text task for sketch vectors.
 ## Architecture
 
