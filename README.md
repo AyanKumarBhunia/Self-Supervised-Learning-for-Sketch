@@ -25,4 +25,4 @@ month = {June},
 year = {2021}
 }
 ```
-## Work done at SketchX Lab, CVSSP, University of Surrey. 
+## Work done at [SketchX Lab](http://sketchx.ai/), CVSSP, University of Surrey. 
